@@ -128,7 +128,7 @@ In this section, we are going to create a limited privilege web application user
 
 1. Open the file in the Visual Studio Code editor by clicking on the filename if not already done for you.
 
-    ![A picture of opening the file in the Visual Studio Code editor by clicking on the filename if not already open](./media/Building%20AI-Ready%20Applications-5-7.png
+    ![A picture of opening the file in the Visual Studio Code editor by clicking on the filename if not already open](./media/Building%20AI-Ready%20Applications-5-7.png)
 
 1. Copy and paste the following parameters into the .env file and save it.
 
