@@ -58,3 +58,5 @@ Visual Studio Code will be used for working with the database.
 
     
 1. You are now connected to the Azure SQL Database!
+
+### Next: [Creating Embedding, and Storing in SQL Database](./3-create-embeddings-for-relational-data.md)

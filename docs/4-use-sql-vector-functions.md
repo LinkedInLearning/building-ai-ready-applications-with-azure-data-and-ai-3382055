@@ -100,3 +100,6 @@ You will be using this function in some upcoming samples as well as in the RAG c
     | HL Mountain Seat/Saddle | HL Mountain Seat/Saddle No Color Saddles HL Mountain Seat/Saddle 2 Anatomic design for a full-day of riding in comfort. Durable leather. | 0.18931317298732764 |
 
     ![A picture of running Query 3 and getting results outlined in the Query 3 results table](./media/Building%20AI-Ready%20Applications-4-3.png)
+
+    
+### Next: [Create a Chat Application](./5-create-a-chat-app.md)

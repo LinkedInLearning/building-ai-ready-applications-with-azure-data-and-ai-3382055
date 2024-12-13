@@ -245,3 +245,6 @@ This next section of the lab will have you alter the Adventure Works product tab
     You can see that the chunk column is the combination of multiple data points about a product and the embeddings column contains the vector arrays.
 
     ![A picture of the query result showing the chunk and embeddings columns and their data.](./media/Building%20AI-Ready%20Applications-3-3.png)
+
+    
+### Next: [Use Vector Search and Functions](./4-use-sql-vector-functions.md)
