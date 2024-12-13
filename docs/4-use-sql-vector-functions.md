@@ -1,4 +1,4 @@
-# 4. Using Azure SQL's VECTOR_DISTANCE for similarity searches
+# Using Azure SQL's VECTOR_DISTANCE for similarity searches
 
 ## Vector similarity searching
 

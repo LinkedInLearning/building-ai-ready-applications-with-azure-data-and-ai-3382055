@@ -1,4 +1,4 @@
-# 3. Creating embeddings for relational data
+# Creating embeddings for relational data
 
 ## Understanding embeddings in Azure OpenAI
 

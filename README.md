@@ -50,3 +50,6 @@ A special thanks to all the contributors and maintainers of this repository, spe
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
 
+
+## Issues
+Please create a GitHub issue in the repository if there any any issues or errors.

@@ -1,4 +1,4 @@
-# 5. Creating a chat application using RAG on relational data
+# Creating a chat application using RAG on relational data
 
 In this section, you will be deploying a RAG application that uses embeddings, vector similarity search, relational data, and a large language model to craft an answer to someone looking for advice on Adventure Works products. In essence, putting all the pieces together in the previous sections to create a working chat application.
 
