@@ -10,7 +10,7 @@ End-to-end examples:
 
 For Azure Cosmos DB
 - Vector search in Cosmos DB NoSQL Overview: https://aka.ms/CosmosVectorSearch
-- AI samples: https://aka.ms/CosmosAISamples
+- Samples: https://aka.ms/CosmosAISamples
 
 For Azure Database for PostgreSQL
 - Docs: https://aka.ms/pggenai
