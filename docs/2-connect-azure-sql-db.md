@@ -1,4 +1,4 @@
-# 1. The Azure Portal and Connecting to an Azure SQL Database
+# The Azure Portal and Connecting to an Azure SQL Database
 
 ## Prerequisites
 

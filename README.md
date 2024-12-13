@@ -20,11 +20,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Prerequisites
+**Software**
+ - Visual Studio Code with the SQL Extension
+
+**Services**
+ - Azure OpenAI instance with a text-embedding-ada-002 deployment and a gpt-4 deployment.
+ - An Azure SQL Database
+
+**Key Information Needed**
+ - Azure SQL Database Server Name
+ - Azure SQL Database Name
+ - Azure OpenAI Endpoint Name
+ - Azute OpenAI Endpoint Key
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
