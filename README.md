@@ -21,11 +21,11 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 ## Prerequisites
-**Software**
- - Visual Studio Code with the SQL Extension
+- [Visual Studio Code](https://code.visualstudio.com/learntocode?) with [mssql extension](https://learn.microsoft.com/en-us/sql/tools/visual-studio-code/sql-server-develop-use-vscode?view=sql-server-ver16)
+- [An Azure account with the necessary permissions to create and manage resources.](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/)
 
 **Services**
- - Azure OpenAI instance with a text-embedding-ada-002 deployment and a gpt-4 deployment.
+ - [Azure OpenAI instance with a text-embedding-ada-002 deployment and a gpt-4 deployment.](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?)
  - An Azure SQL Database
 
 **Key Information Needed**
@@ -34,6 +34,16 @@ To resolve this issue:
  - Azure OpenAI Endpoint Name
  - Azute OpenAI Endpoint Key
 
+## Modules
+1. **[Creating to Your Free Azure SQL Database](./docs/1-create-azure-SQL-database.md)**: Get started with your own Azure SQL Database.
+2. **[Connecting to Azure SQL Database](./docs/2-connect-azure-sql-db.md)**: Get connected with your Azure SQL Database.
+3. **[Creating Embedding, and Storing in SQL Database](./docs/3-create-embeddings-for-relational-data.md)**: Dive into the process of embedding and storing data using SQL.
+4. **[Vector Search with Vector Functions](./docs/4-use-sql-vector-functions.md)**: Utilize vector functions for efficient search capabilities.
+5. **[Create a Chat Application](./docs/5-create-a-chat-app.md)**: Build an application for searches and talk with your data.
+
+
+## Acknowledgments
+A special thanks to all the contributors and maintainers of this repository, special thanks to [Brian Spendolini](https://www.linkedin.com/in/btspendo/) for the examples.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
