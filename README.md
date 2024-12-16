@@ -1,6 +1,12 @@
 # Building AI-Ready Applications with Azure Data and AI
 This is the repository for the LinkedIn Learning course `Building AI-Ready Applications with Azure Data and AI`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+## Course Description
+
+In this course, explore how to build AI-ready applications using the robust data and AI services in Azure. From data preparation to interacting with language models, instructor Muazma Zahid covers essential topics for creating intelligent solutions. Muazma delves into advanced techniques such as retrieval-augmented generation (RAG) and shows you how to harness the power of large language models (LLMs) to enhance your applications.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -45,11 +51,21 @@ To resolve this issue:
 ## Acknowledgments
 A special thanks to all the contributors and maintainers of this repository, special thanks to [Brian Spendolini](https://www.linkedin.com/in/btspendo/) for the examples.
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
 
 ## Issues
 Please create a GitHub issue in the repository if there any any issues or errors.
+
+## Instructor
+
+Muazma Zahid
+
+Principal Engineering Manager at Microsoft and President of PWiC
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/muazma-zahid?u=104).
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQElkNzjKq514Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732219958762?e=2147483647&v=beta&t=LV7_Ho07qY2gMQzoHwrX5i0U4Ey_6aP07Wj6G0PO4DM
